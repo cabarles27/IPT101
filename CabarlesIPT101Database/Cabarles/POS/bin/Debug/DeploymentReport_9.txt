@@ -1,0 +1,26 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       unnamed constraint on [dbo].[POS]
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[POS].[Id] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[POS] (Primary Key)
+     Alter
+       [dbo].[POS] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[CreatePOS] (Procedure)
+       [dbo].[DeletePOS] (Procedure)
+       [dbo].[GetAllPOS] (Procedure)
+       [dbo].[GetPOS] (Procedure)
+       [dbo].[UpdatePOS] (Procedure)
+
+The column [dbo].[POS].[Id] is being dropped, data loss could occur.
+
