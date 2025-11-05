@@ -1,0 +1,10 @@
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\bin\Debug\CabarlesDatabase.dacpac
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\bin\Debug\CabarlesDatabase.dll
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\bin\Debug\CabarlesDatabase.pdb
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\obj\Debug\CabarlesDatabase.sqlproj.AssemblyReference.cache
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\obj\Debug\Model.xml
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\obj\Debug\refactor.xml
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\obj\Debug\postdeploy.sql
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\obj\Debug\predeploy.sql
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\obj\Debug\CabarlesDatabase.dll
+D:\Sajor\Cabarles_IPT\CabarlesDatabase\obj\Debug\CabarlesDatabase.pdb
