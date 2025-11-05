@@ -1,5 +1,0 @@
-﻿CREATE PROCEDURE [dbo].[GetAllPOS]
-AS
-BEGIN
-SELECT * FROM [dbo].[POS];
-END
