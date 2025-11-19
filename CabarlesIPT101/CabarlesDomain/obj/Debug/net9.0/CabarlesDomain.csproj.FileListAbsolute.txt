@@ -1,0 +1,12 @@
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\bin\Debug\net9.0\CabarlesDomain.deps.json
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\bin\Debug\net9.0\CabarlesDomain.dll
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\bin\Debug\net9.0\CabarlesDomain.pdb
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\CabarlesDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\CabarlesDomain.AssemblyInfoInputs.cache
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\CabarlesDomain.AssemblyInfo.cs
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\CabarlesDomain.csproj.CoreCompileInputs.cache
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\CabarlesDomain.sourcelink.json
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\CabarlesDomain.dll
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\refint\CabarlesDomain.dll
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\CabarlesDomain.pdb
+D:\Sajor\projects\Cabarles_IPT\CabarlesDomain\obj\Debug\net9.0\ref\CabarlesDomain.dll
